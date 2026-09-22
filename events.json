@@ -1,0 +1,72 @@
+[
+  {
+    "eventName": "Birthday Party",
+    "date": "2026-10-15",
+    "time": "19:00",
+    "location": "Vienna",
+    "category": "Birthday"
+  },
+  {
+    "eventName": "Football Match",
+    "date": "2026-10-18",
+    "time": "15:00",
+    "location": "Bad Vöslau",
+    "category": "Sport"
+  },
+  {
+    "eventName": "Team Meeting",
+    "date": "2026-10-20",
+    "time": "10:00",
+    "location": "Vienna",
+    "category": "Meeting"
+  },
+  {
+    "eventName": "Halloween Party",
+    "date": "2026-10-31",
+    "time": "20:00",
+    "location": "Baden",
+    "category": "Party"
+  },
+  {
+    "eventName": "Tennis Training",
+    "date": "2026-11-03",
+    "time": "17:30",
+    "location": "Wiener Neustadt",
+    "category": "Sport"
+  },
+  {
+    "eventName": "Project Meeting",
+    "date": "2026-11-06",
+    "time": "14:00",
+    "location": "Vienna",
+    "category": "Meeting"
+  },
+  {
+    "eventName": "Christmas Party",
+    "date": "2026-12-05",
+    "time": "19:00",
+    "location": "Vienna",
+    "category": "Party"
+  },
+  {
+    "eventName": "Basketball Game",
+    "date": "2026-11-12",
+    "time": "18:00",
+    "location": "Baden",
+    "category": "Sport"
+  },
+  {
+    "eventName": "Sarah's Birthday",
+    "date": "2026-11-20",
+    "time": "18:30",
+    "location": "Vienna",
+    "category": "Birthday"
+  },
+  {
+    "eventName": "Study Group",
+    "date": "2026-11-25",
+    "time": "16:00",
+    "location": "Vienna",
+    "category": "Meeting"
+  }
+]
