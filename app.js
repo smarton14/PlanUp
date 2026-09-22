@@ -20,3 +20,4 @@ function displayEvents(events) {
 const events = readEvents();
 
 displayEvents(events);
+console.log("All events loaded successfully.");
