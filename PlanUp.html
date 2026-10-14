@@ -620,8 +620,14 @@
         }
     ];
 
-    let events = JSON.parse(localStorage.getItem("planUpEvents")) || defaultEvents;
-
+     const savedEvents = localStorage.getItem("planUpEvents");
+    
+        let events = savedEvents ? JSON.parse(savedEvents) : defaultEvents;
+    
+        if (!Array.isArray(events) || events.length === 0) {
+            events = defaultEvents;
+            localStorage.setItem("planUpEvents", JSON.stringify(events));
+        }
     function checkLoginState() {
         if (!currentUser) {
             document.getElementById("loginScreen").style.display = "flex";
